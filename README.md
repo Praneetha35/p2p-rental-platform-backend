@@ -169,7 +169,5 @@ Import the following endpoints into Postman:
 
 2. **Database Integration**
    - Migration to PostgreSQL or MongoDB
-   - Data persistence
-   - Proper indexing for better performance
 
 
